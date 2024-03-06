@@ -1,10 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
-
-
-# -*- coding: utf-8 -*-
 """
 Created on Tue Mar  5 21:46:17 2024
 
