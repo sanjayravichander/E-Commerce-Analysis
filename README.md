@@ -4,12 +4,12 @@ The purpose of this document is to outline the objectives, methodologies, and ex
 This analysis aims to provide valuable insights into various aspects of product data collected from the platform.
 
 # Objectives:
-2.1. To analyze product trends and patterns within the Indian e-commerce market.
-2.2. To identify popular product categories and subcategories.
-2.3. To assess pricing strategies and pricing dynamics across different product segments.
-2.4. To understand customer preferences and buying behaviors.
-2.5. To evaluate the impact of product reviews and ratings on sales.
-2.6. To identify opportunities for product assortment optimization and enhancement.
+- 2.1. To analyze product trends and patterns within the Indian e-commerce market.
+- 2.2. To identify popular product categories and subcategories.
+- 2.3. To assess pricing strategies and pricing dynamics across different product segments.
+- 2.4. To understand customer preferences and buying behaviors.
+- 2.5. To evaluate the impact of product reviews and ratings on sales.
+- 2.6. To identify opportunities for product assortment optimization and enhancement.
 
 # Plots Followed in Tableau:
 
